@@ -1,4 +1,21 @@
-### Hi mateZ 👋 call me MitZ
+# Hi mateZ 👋 call me MitZ
+
+## :deciduous_tree: Core ...
+###		:heavy_check_mark: Laravel and I Love API's
+###		:heavy_check_mark: React with Redux
+
+## :seedling: I’m currently learning ...	
+###		:diamond_shape_with_a_dot_inside: Svelte
+###		:diamond_shape_with_a_dot_inside: React Native
+###		:diamond_shape_with_a_dot_inside: Vue
+
+## :grin: Fun fact ...
+###		:thinking: like mitsuki (boruto), I observe and then solve
+
+
+
+
+
 
 <!--
 **munetracker/munetracker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +29,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 
 -->
