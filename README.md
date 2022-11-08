@@ -1,10 +1,15 @@
 # Hi mateZ :clinking_glasses: call me MitZ (cheers!)
 
 ### 	:deciduous_tree: Core ...
+
 :heavy_check_mark: Laravel and I :hugs: API's
+
 :heavy_check_mark: React with Redux
+
 :notebook_with_decorative_cover: Tailwind
+
 :green_book: PicoCSS
+
 :scroll: Bootstrap
 
 ### 	:hibiscus: I’m currently learning ...	
