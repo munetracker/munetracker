@@ -7,14 +7,13 @@
 :heavy_check_mark: React with Redux
 
 :notebook_with_decorative_cover: Tailwind
-
 :green_book: PicoCSS
-
 :scroll: Bootstrap
 
 ### 	:hibiscus: I’m currently learning ...	
 :rose: React Native
 :rose: Svelte
+
 :seedling: Vue
 :seedling: Deno Fresh
 
@@ -23,7 +22,9 @@
 
 ### 	:heart_on_fire: LOVE . . .
 :spider_web: JS :couple: :spider: PHP
+
 :cat2: Python
+
 :t-rex: Flutter/Dart, Java, C#, C++, VB
 
 <!--
