@@ -9,12 +9,12 @@
 :notebook_with_decorative_cover: Tailwind | :green_book: PicoCSS | :scroll: Bootstrap
 
 ### 	:hibiscus: I’m currently learning ...	
-:rose: React Native | :rose: Svelte | :seedling: Vue | :seedling: Deno Fresh
+:rose: React Native | :rose: Svelte | :seedling: Vue 
 
-### 	:label: Quote ...
-:thinking: Output = Quit Learning and Practice ? Forgets Gained Wisdom : Add Up to Greatness ; 
+### 	Quote ... :thinking: 
+Output = Quit Learning and Practice ? Forgets Gained Wisdom : Add Up to Greatness ; 
 
-### 	:heart_on_fire: LOVE . . .
+###   LOVE . . .
 :spider_web: JS :couple: PHP :spider:
 
 :cat2: Python
@@ -22,6 +22,9 @@
 :t-rex: Flutter/Dart | Java | C# | C++ | VB
 
 <!--
+
+| :seedling: Deno Fresh
+
 **munetracker/munetracker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
