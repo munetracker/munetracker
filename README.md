@@ -6,11 +6,9 @@
 
 ### 	:hibiscus: I’m currently learning React Native Lvl. :rose: , Svelte Lvl. :rose: and Nuxt3 Lvl. :rose: 
 
-### 	Quote ... :thinking: 
-Output = Quit Learning and Practice ? Forgets Gained Wisdom : Add Up to Greatness ; 
+### 	Quote :thinking: ... Output = Quit Learning and Practice ? Forgets Gained Wisdom : Add Up to Greatness ; 
 
-###   LOVE . . .
-:spider_web: JS :couple: PHP :spider: with a pet :cat2: Python
+###   LOVE :spider_web: JS :couple: PHP :spider: with a pet :cat2: Python
 
 having experience with :t-rex: Flutter/Dart | Java | C# | C++ | VB
 
