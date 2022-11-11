@@ -1,29 +1,26 @@
 # Hi mateZ :clinking_glasses: call me MitZ (cheers!)
 
-###   Core :deciduous_tree:
+###   Core :house_with_garden:
+Deployed :deciduous_tree: and Maintained :bricks: projects are in React/Redux :family_man_woman_girl_boy: Laravel and I :hugs: API's
+with designs :notebook_with_decorative_cover: Tailwind or :scroll: Bootstrap or :green_book: PicoCSS
 
-:heavy_check_mark: Laravel and I :hugs: API's
-
-:heavy_check_mark: React with Redux
-
-:notebook_with_decorative_cover: Tailwind | :green_book: PicoCSS | :scroll: Bootstrap
-
-### 	:hibiscus: I’m currently learning ...	
-:rose: React Native | :rose: Svelte | :rose: Vue 
+### 	:hibiscus: I’m currently learning React Native Lvl. :rose: , Svelte Lvl. :rose: and Nuxt3 Lvl. :rose: 
 
 ### 	Quote ... :thinking: 
 Output = Quit Learning and Practice ? Forgets Gained Wisdom : Add Up to Greatness ; 
 
 ###   LOVE . . .
-:spider_web: JS :couple: PHP :spider:
-
-:cat2: Python
-
-:t-rex: Flutter/Dart | Java | C# | C++ | VB
+:spider_web: JS :couple: PHP :spider: with a pet :cat2: Python
+haveing experience in :t-rex: Flutter/Dart | Java | C# | C++ | VB
 
 <!--
-
+Next in line to study
 | :seedling: Deno Fresh
+| :seedling: Firebase
+
+Emoji
+https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
+
 
 **munetracker/munetracker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
