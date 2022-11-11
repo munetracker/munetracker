@@ -1,6 +1,6 @@
 # Hi mateZ :clinking_glasses: call me MitZ (cheers!)
 
-### 	:deciduous_tree: Core ...
+###   Core :deciduous_tree:
 
 :heavy_check_mark: Laravel and I :hugs: API's
 
@@ -9,7 +9,7 @@
 :notebook_with_decorative_cover: Tailwind | :green_book: PicoCSS | :scroll: Bootstrap
 
 ### 	:hibiscus: I’m currently learning ...	
-:rose: React Native | :rose: Svelte | :seedling: Vue 
+:rose: React Native | :rose: Svelte | :rose: Vue 
 
 ### 	Quote ... :thinking: 
 Output = Quit Learning and Practice ? Forgets Gained Wisdom : Add Up to Greatness ; 
