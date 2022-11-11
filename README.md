@@ -6,7 +6,9 @@
 ## 	:hibiscus: I’m currently learning ***React Native*** Lvl. :rose: and ***Svelte*** Lvl. :rose: (also looking 🤔: forward to ***Nuxt3*** and ***Deno/Deno-Fresh***)
 ## 	My Quotes :thinking: ... 
    Output = Quit Learning and Practice ? Forgets Gained Wisdom : Add Up to Greatness ; 
+   
    To be Better than I was before :sunglasses:
+   
 ##   LOVE :spider_web: ***JS*** :couple: ***PHP*** :spider: with a pet :cat2: ***Python***
    having experience with :t-rex: Flutter/Dart | Java/Andriod | C# | C++ | VB
 
