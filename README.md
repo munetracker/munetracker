@@ -9,8 +9,7 @@
 <!-- (also looking 🤔: forward to ***Nuxt3*** and ***Deno/Deno-Fresh***) -->
 
 ###	My Quotes :thinking: ... <br/> Output = Quit Learning and Practice ? Forgets Gained Wisdom : Add Up to Greatness ; <br/> To be Better than I was before :sunglasses:
-   
-   Also have experience with :t-rex: Java/Andriod | C# | C++ | VB
+### I Also have experience with :t-rex: Java/Andriod | C# | C++ | VB
 
 <!--
 Next in line to study
