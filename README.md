@@ -1,9 +1,9 @@
 # Hi mateZ :clinking_glasses: call me MitZ (cheers!)
 
-##   Currently Im on ***Web Development*** ( and still catching up to the ***trends of frameworks and coding standards*** )
+##   Currently Im on ***Web Development*** <sub>( and still catching up to the ***trends of frameworks and coding standards*** )</sub>
 ##   I LOVE :spider_web: ***JS*** :couple: ***PHP*** :spider: with a pet :cat2: ***Python***
 
-##   Deployed :house_with_garden: and Maintained :bricks: projects are in ***React/Redux*** :family_man_woman_girl_boy: ***Laravel*** and I :revolving_hearts: ***API's*** with designs of :notebook_with_decorative_cover: ***Tailwind*** :scroll: ***Bootstrap*** and :green_book: ***PicoCSS***
+##   Deployed :house_with_garden: and Maintained :bricks: projects <br/>are in ***React/Redux*** :family_man_woman_girl_boy: ***Laravel*** and I :revolving_hearts: ***API's*** with designs of :notebook_with_decorative_cover: ***Tailwind*** :scroll: ***Bootstrap*** and :green_book: ***PicoCSS***
 
 ## 	:hibiscus: I’m currently learning ***React Native*** Lvl. :rose: and ***Svelte*** Lvl. :rose: 
 <!-- (also looking 🤔: forward to ***Nuxt3*** and ***Deno/Deno-Fresh***) -->
