@@ -11,7 +11,14 @@
 ###	My Quotes :thinking: ... <br/> Output = Quit Learning and Practice ? Forgets Gained Wisdom : Add Up to Greatness ; <br/> To be Better than I was before :sunglasses:
 ### I Also have experience with :t-rex: Java/Andriod | C# | C++ | VB
 
+
+
+
 <!--
+
+https://www.onlinejobs.ph/jobseekers/info/586043
+
+
 Next in line to study
 | 🌱: Nuxt3 Lvl. 
 | 🌱: Next Typescript 
