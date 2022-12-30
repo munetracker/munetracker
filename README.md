@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mits
+Hi mateZ ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mits
 ============================================================================================================================
 
 Web Architect and Developer
@@ -7,9 +7,9 @@ Web Architect and Developer
 Start Coding since 2017
 
 * 🌍  I'm based in Philippines
-* 🖥️  See my portfolio at [My Portfolio](http://mits-portfolio.vercel.app/)
+* 🖥️  See my portfolio at [My Portfolio](http://mits-portfolio.vercel.app/){:target="_blank" rel="noreferrer noopener"}
 * ✉️  You can contact me at [mldsprive@gmail.com](mailto:mldsprive@gmail.com)
-* 🧠  I'm learning Svelte, React/Redux and React Native
+* 🧠  I'm learning React/Redux, React Native and Svelte
 
 ### Skills
 
@@ -42,7 +42,7 @@ Start Coding since 2017
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/MomentNiMitsuki"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/MomentNiMitsuki" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 
 
