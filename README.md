@@ -7,7 +7,7 @@ Web Architect and Developer
 Start Coding since 2017
 
 * 🌍  I'm based in Philippines
-* 🖥️  See my portfolio at [My Portfolio](http://mits-portfolio.vercel.app){:target="_blank"}
+* 🖥️  See my portfolio at [My Portfolio](http://mits-portfolio.vercel.app)
 * ✉️  You can contact me at [mldsprive@gmail.com](mailto:mldsprive@gmail.com)
 * 🧠  I'm learning React/Redux, React Native and Svelte
 
