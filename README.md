@@ -32,9 +32,8 @@ Start Coding since 2017
 </p>
 
 
-### Socials
-
-<p align="left"> <a href="https://www.github.com/munetracker" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p>
+<!-- ### Socials -->
+<!-- <p align="left"> <a href="https://www.github.com/munetracker" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p> -->
 
 ### Top Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=munetracker)](https://github.com/anuraghazra/github-readme-stats)
