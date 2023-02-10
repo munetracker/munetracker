@@ -9,7 +9,7 @@ Start Coding since 2017
 * 🌍  I'm based in Philippines
 * 🖥️  See my portfolio at [My Portfolio](http://mits-portfolio.vercel.app)
 * ✉️  You can contact me at [privenecro+github@gmail.com](mailto:privenecro+github@gmail.com)
-* 🧠  I'm learning React/Redux, React Native and Svelte
+* 🧠  I'm currently learning React/Redux, Svelte, Laravel with Inertia React, Astro and React Native 
 
 ### Skills
 
