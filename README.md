@@ -1,9 +1,5 @@
-Hi mateZ ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Just Call Me MitZ
+Hi Visitor ![](https://profile-counter.glitch.me/munetracker/count.svg) ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Just Call Me MitZ
 ============================================================================================================================
-
-
-![Visitor Count](https://profile-counter.glitch.me/munetracker/count.svg)
-
 
 Web Architect and Developer
 ---------------------------
