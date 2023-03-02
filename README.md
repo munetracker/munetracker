@@ -4,16 +4,14 @@ Hi ![](https://profile-counter.glitch.me/munetracker/count.svg) Visitor ![](http
 Web Architect and Developer
 ---------------------------
 
-Start Coding since 2017
-
+* 🕤  Started Coding since 2017
 * 🌍  I'm based in Philippines
-* 🖥️  See my portfolio at [My Portfolio](http://mits-portfolio.vercel.app)
-* ✉️  You can contact me at [privenecro+github@gmail.com](mailto:privenecro+github@gmail.com)
+* 🖥️  See my portfolio deployed in [Vercel](https://mits-portfolio.vercel.app) and [Netlify](https://mits-portfolio.netlify.app/)
+* ✉️  You can Email me at [privenecro+github@gmail.com](mailto:privenecro+github@gmail.com)
 * ▶️  I have a youtube channel [Moment ni MitZ](https://www.youtube.com/@momentnimitz) 
 * 🧠  I'm currently learning React/Redux, Svelte, Laravel with Inertia React, Astro and React Native 
 
 ### Skills
-
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
