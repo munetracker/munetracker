@@ -31,11 +31,19 @@ Web Architect and Developer
 </p>
 
 
-<!-- ### Socials -->
-<!-- <p align="left"> <a href="https://www.github.com/munetracker" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p> -->
+
 
 ### Top Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=munetracker)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+<!-- Below codes not included -->
+
+
+<!-- ### Socials -->
+<!-- <p align="left"> <a href="https://www.github.com/munetracker" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p> -->
+
 
 <!--
 
@@ -65,8 +73,6 @@ old github portfolio
 ###	My Quotes :thinking: ... <br/> Output = Quit Learning and Practice ? Forgets Gained Wisdom : Add Up to Greatness ; <br/> To be Better than I was before :sunglasses:
 ### I Also have experience with :t-rex: Java/Andriod | C# | C++ | VB
 -->
-
-
 
 
 <!--
