@@ -5,11 +5,9 @@ Web Architect and Developer
 ---------------------------
 
 * 🕤  Started Coding since 2017
-* 🌍  I'm based in Philippines
-* 🖥️  See my portfolio deployed in [Vercel](https://mits-portfolio.vercel.app) and [Netlify](https://mits-portfolio.netlify.app/)
 * ✉️  You can Email me at [privenecro+github@gmail.com](mailto:privenecro+github@gmail.com)
-* ▶️  I have a youtube channel [Moment ni MitZ](https://www.youtube.com/@momentnimitz) 
-* 🧠  I'm currently learning React/Redux, Svelte, Laravel with Inertia React, Astro and React Native 
+* 🧠  I'm currently using Laravel, React/Redux and Svelte
+<!-- Astro, Inertia, React Native  -->
 
 ### Skills
 
@@ -29,9 +27,6 @@ Web Architect and Developer
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" width="36" height="36" alt="Illustrator" /></a>
 </p>
-
-
-
 
 ### Top Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=munetracker)](https://github.com/anuraghazra/github-readme-stats)
