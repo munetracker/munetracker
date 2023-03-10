@@ -6,7 +6,7 @@ Web Architect and Developer
 
 * 🕤  Started Coding since 2017
 * ✉️  You can Email me at [privenecro+github@gmail.com](mailto:privenecro+github@gmail.com)
-* 🧠  I'm currently using Laravel, React/Redux and Svelte
+<!-- * 🧠  I'm currently using Laravel, React/Redux and Svelte -->
 <!-- Astro, Inertia, React Native  -->
 
 ### Skills
