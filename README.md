@@ -1,12 +1,13 @@
-Hi ![](https://profile-counter.glitch.me/munetracker/count.svg) Visitor ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Just Call Me MitZ
+Hi ![](https://profile-counter.glitch.me/munetracker/count.svg) Visitor ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Just Call Me TP ( Techy Pridi )
 ============================================================================================================================
 
-Web Architect and Developer
+Im a Web Architect and a Developer
 ---------------------------
 
 * 🕤  Started Coding since 2017
 * ✉️  You can Email me at [privenecro+github@gmail.com](mailto:privenecro+github@gmail.com)
-<!-- * 🧠  I'm currently using Laravel, React/Redux and Svelte -->
+* 🧠  [I am honored if you check my Repositories](https://github.com/munetracker?tab=repositories)
+<!-- *   I'm currently using Laravel, React/Redux and Svelte -->
 <!-- Astro, Inertia, React Native  -->
 
 ### Skills
@@ -28,7 +29,7 @@ Web Architect and Developer
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" width="36" height="36" alt="Illustrator" /></a>
 </p>
 
-### Top Language
+### Skill Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=munetracker)](https://github.com/anuraghazra/github-readme-stats)
 
 
