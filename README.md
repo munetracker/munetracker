@@ -23,7 +23,7 @@ Im a Web Architect and a Developer
 
 ### Web Development Tools 
    
-<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/munetracker/Font-Awesome/6.x/svgs/brands/node.svg" width="36" height="36" alt="nodejs" /></a>
+<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="nodejs" /></a>
 <a href="https://www.npmjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/munetracker/Font-Awesome/6.x/svgs/brands/npm.svg" width="36" height="36" alt="npm" /></a>
 <a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/svelte-colored.svg" width="36" height="36" alt="Svelte" /></a>
 <a href="https://astro.build/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_astro.svg" width="36" height="36" alt="AstroJS" /></a>
