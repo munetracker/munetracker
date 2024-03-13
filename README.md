@@ -22,23 +22,24 @@ Im a Web Architect and a Developer
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 
 ### Web Development Tools 
-   
-<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="nodejs" /></a>
-<a href="https://www.npmjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/munetracker/Font-Awesome/6.x/svgs/brands/npm.svg" width="36" height="36" alt="npm" /></a>
-<a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/svelte-colored.svg" width="36" height="36" alt="Svelte" /></a>
-<a href="https://astro.build/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_astro.svg" width="36" height="36" alt="AstroJS" /></a>
+
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://www.npmjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/munetracker/tppublic/master/SVG/npmjs.svg" width="36" height="36" alt="npm" /></a>
+<a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/svelte-colored.svg" width="36" height="36" alt="Svelte" /></a>
+<a href="https://astro.build/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_astro.svg" width="36" height="36" alt="AstroJS" /></a>
+<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/munetracker/tppublic/master/SVG/nodejs.svg" width="36" height="36" alt="nodejs" /></a>
 
 ### Other Tech Tools
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_vscode.svg" width="36" height="36" alt="VSCode" /></a>
-<a href="https://cpanel.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/munetracker/Font-Awesome/6.x/svgs/brands/cpanel.svg" width="36" height="36" alt="CPanel" /></a>
-<a href="https://insomnia.rest/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Kong/insomnia-design-assets/master/export/Icon.svg" width="36" height="36" alt="Insomia" /></a>
+<a href="https://cpanel.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/munetracker/tppublic/master/SVG/cpanel.svg" width="36" height="36" alt="CPanel" /></a>
 <a href="https://postman.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/flathub/com.getpostman.Postman/master/logo-mark.svg" width="36" height="36" alt="Postman" /></a>
+<a href="https://canva.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/munetracker/tppublic/master/SVG/canva.svg" width="36" height="36" alt="Canva" /></a>
+<a href="https://insomnia.rest/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Kong/insomnia-design-assets/master/export/Icon.svg" width="36" height="36" alt="Insomia" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
 </p>
