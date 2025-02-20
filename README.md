@@ -1,4 +1,5 @@
 Hi ![](https://profile-counter.glitch.me/munetracker/count.svg) Visitor ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Just Call Me TP ( Techy Pridi )
+<!-- 
 ============================================================================================================================
 
 Im a Web Architect and a Developer
@@ -7,10 +8,10 @@ Im a Web Architect and a Developer
 * 🕤  Started Coding since 2017
 * ✉️  You can Email me at [privenecro+github@gmail.com](mailto:privenecro+github@gmail.com)
 * 🧠  [I am honored if you check my Repositories](https://github.com/munetracker?tab=repositories)
-* [More About Me Click Here...](https://techypridi-portfolio.netlify.app/)
+* [More About Me Click Here...](https://techypridi-portfolio.netlify.app/)-->
 <!-- *   I'm currently using Laravel, React/Redux and Svelte -->
 <!-- Astro, Inertia, React Native  -->
-
+<!-- 
 ### Geek Languages
 
 <p align="left">
@@ -46,7 +47,7 @@ Im a Web Architect and a Developer
 
 ### Skill Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=munetracker)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 
 
 <!-- Below codes not included -->
