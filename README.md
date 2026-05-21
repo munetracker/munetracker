@@ -1,5 +1,116 @@
-Hi ![](https://profile-counter.glitch.me/munetracker/count.svg) Visitor ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Just Call Me TP ( Techy Pridi )
+<div align="center">
+
+# 👋 Hi Visitor ✨ Thanks For Visiting ✨
+## Just Call Me **TP** *(Techy Pridi)*
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Techy+Pridi+%7C+TP;Code.+Create.+Innovate.;Building+Cool+Things+Everyday..." alt="Typing SVG" />
+
+<br>
+
+<a href="https://techypridi-portfolio.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00F7FF"/>
+</a>
+
+</div>
+
+# 🚀 About Me
+
+```yaml
+Name: TP
+Nickname: Techy Pridi
+Role: Developer
+
+Passion:
+  - Web Development
+  - Software Engineering
+  - Open Source
+  - Creative Projects
+
+Currently:
+  - Learning new technologies
+  - Building cool applications
+  - Improving every single day
+```
+
+# 🛠️ Featured Tech Stack
+
+## 🌐 Web Development Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=php,mysql,js,html,css,python" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=laravel,bootstrap,tailwind,jquery,react,redux,materialui,svelte,astro,nodejs" />
+
+</div>
+
+---
+
+## ⚙️ Other Tech Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=sublime,vscodium,git,bash,trello,postman,vscode,figma,ai,ps,pr,ae,gcp" />
+
+</div>
+
+---
+
+# 🌌 Motto
+
+```txt
+"Technology is best when it brings people together."
+```
+
+<div align="center">
+
+# 🎯 Goals
+
+🚀 Create impactful projects  
+📚 Keep learning new technologies  
+💡 Turn ideas into reality  
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 Visit My Portfolio
+
+<a href="https://techypridi-portfolio.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Visit%20Portfolio-111827?style=for-the-badge&logo=firefox-browser&logoColor=00F7FF"/>
+</a>
+
+</div>
+
 <!-- 
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://facebook.com/YOUR_PROFILE">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+-->
+
+<!-- 
+Hi ![](https://profile-counter.glitch.me/munetracker/count.svg) Visitor ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Just Call Me TP ( Techy Pridi )
+
 ============================================================================================================================
 
 Im a Web Architect and a Developer
