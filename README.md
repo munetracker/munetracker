@@ -80,7 +80,7 @@ Currently:
 
 ## 🌐 Visit My Portfolio
 
-<a href="https://techypridi-portfolio.netlify.app/" target="_blank">
+<a href="https://pridi.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/Visit%20Portfolio-111827?style=for-the-badge&logo=firefox-browser&logoColor=00F7FF"/>
 </a>
 
