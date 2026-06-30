@@ -7,7 +7,7 @@
 
 <br>
 
-<a href="https://techypridi-portfolio.netlify.app/" target="_blank">
+<a href="https://pridi.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00F7FF"/>
 </a>
 
